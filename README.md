@@ -41,6 +41,6 @@ The project is organized as follows:
 If you would like to contribute to this project, please fork the repository and submit a pull request. We welcome all contributions, including new tutorials, examples, and resources.
 
 ## License
-This project is not currently licensed under any license. 
+This project is not currently licensed under any license! 
 
 Happy drawing! 🎨
