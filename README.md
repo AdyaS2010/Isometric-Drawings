@@ -12,7 +12,7 @@ Welcome to my Isometric Drawing Project! This project is designed to help you le
 - [License](#license)
 
 ## Introduction
-Isometric drawings are a great way to represent three-dimensional objects in a two-dimensional space. They are commonly used in engineering, architecture, and video game design. This project will help you understand the principles of isometric drawing and provide you with the tools to create your own.
+Isometric drawings are a great way to represent three-dimensional objects in a two-dimensional space. They are commonly used in engineering, architecture, and video game design. This project will help you understand the principles of isometric drawing and provide you with the tools to create your own (yay!)
 
 ## Getting Started
 To get started with this project, you will need:
