@@ -14,6 +14,14 @@ Welcome to my Isometric Drawing Project! This project is designed to help you le
 ## Introduction
 Isometric drawings are a great way to represent three-dimensional objects in a two-dimensional space. They are commonly used in engineering, architecture, and video game design. This project will help you understand the principles of isometric drawing and provide you with the tools to create your own (yay!)
 
+### Example Drawings
+![image](https://github.com/user-attachments/assets/c7815971-e89f-4006-8728-a4b8acce7d5c)
+*Base Structures - referenced using faces and block types (in real life).*
+
+![image](https://github.com/user-attachments/assets/d2c4e4f6-612b-4065-97b3-efde41fb653f)
+
+*Implementation of various techniques (basics) into/while creating a larger drawing / demonstration isometrically. 
+
 ## Getting Started
 To get started with this project, you will need:
 - A basic understanding of geometry
